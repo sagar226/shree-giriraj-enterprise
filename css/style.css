@@ -476,7 +476,6 @@ button {
     font-size: 16px;
     color: #ffffff;
     margin-left: 0px;
-    padding-top: 40px;
 }
 .read_bt1 {
     width: 30%;
@@ -979,6 +978,9 @@ textarea#comment::placeholder {
     font-size: 16px;
     color: #fefefe;
     margin-left: 0px;
+}
+.footer_lorem_text1 a {
+    color: #fefefe;
 }
 .social_icon {
     width: 100%;
