@@ -237,7 +237,7 @@ width: 30%;
 .send_bt a { width: 130px; padding: 5px 0px; }
 .input-group { width: 290px; } 
 .container_main1::after { width: 88%; height: 88%; }
-.modern_text { font-size: 12px; top: -30px; }
+.modern_text { font-size: 12px; top: 0px; }
 .text { font-size: 8px; }
 .temper_text { font-size: 15px; }
 .email-bt { margin-top: 10px; }
@@ -328,7 +328,7 @@ padding: 126px 40px;
 .send_bt a { width: 130px; padding: 5px 0px; }
 .input-group { width: 290px; } 
 .container_main1::after { width: 84%; height: 84%; }
-.modern_text { font-size: 12px; top: -30px; }
+.modern_text { font-size: 12px; top: 0px; }
 .text { font-size: 8px; }
 .mb-lg-0, .my-lg-0 { width: 100%; } 
 .search_icon { width: 100%; }
